@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/comzhidiancloud/src/main/java/llk/BMP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/comzhidiancloud/src/main/java/llk/Fangkuai.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/comzhidiancloud/src/main/java/llk/FkSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/comzhidiancloud/src/main/java/win32/Mouse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/comzhidiancloud/src/main/java/win32/Rect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/comzhidiancloud/src/main/java/win32/Window.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/llk/src/main/java/llk/BMP.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/llk/src/main/java/llk/DepthFirst.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/llk/src/main/java/llk/Fangkuai.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/llk/src/main/java/llk/FkSet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/llk/src/main/java/llk/Lianlk.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/llk/src/main/java/win32/Mouse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/llk/src/main/java/win32/Rect.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/llk/src/main/java/win32/Window.java" charset="UTF-8" />
+  </component>
+</project>
